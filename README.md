@@ -23,8 +23,8 @@ This project is a Spring Boot web application that generates random passwords ba
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
-   cd password-generator
+   git clone https://github.com/byurudur/PasswordGenerator.git
+   cd PasswordGenerator
     ```
 2. Clone the project with Maven:
    ```bash
